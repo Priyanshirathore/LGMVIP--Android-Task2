@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "705212625517",
+    "project_id": "lgm-android-internship",
+    "storage_bucket": "lgm-android-internship.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705212625517:android:2d935f4fb89ed0c64d4564",
+        "android_client_info": {
+          "package_name": "com.example.task2lgmfirebasefacedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705212625517-amesi3mq0s3jt1mo3on8e99sl5buu9p9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.task2lgmfirebasefacedetection",
+            "certificate_hash": "b84f10d912e7de34adbf242f707b426f96d07123"
+          }
+        },
+        {
+          "client_id": "705212625517-6ld41i84307pmtvt4bd3k5c8ao2a1pjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC8g-APbl6DgS9K_dFRUu4P1HkK3-Eo_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705212625517-6ld41i84307pmtvt4bd3k5c8ao2a1pjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
